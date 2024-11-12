@@ -87,5 +87,38 @@ Principal, not rules, that we my follow when writting test
   * Mocking all the dependencies of the unit under test
   * Mocking all the dependencies of the dependencies of the unit under test
 
+
+# Environment Variables
+
+# Multiple Test Configurations
+
+# Snapshot Testing
+- Test large objects
+- Test UI components, generated login (JSON, HTML, XML etc)
+
+# Custom Matchers
+
+# The NodeJs Native Test Runner
+
+# Jest
+* Test Runner
+* Assertion Library
+* Mocking Library
+## Jest Advantages
+* One tool for all
+* Easy TS integration
+* Popular (better support)
+* Test UI features(React)
+
+# Mocha
+* Test Runner
+
+# SinonJs
+* Complex mocking library
+
+# Chai
+* Assertion library
+
+
 ### Resources
 * [Unit Testing for Typescript & NodeJs Developers with Jest](https://www.udemy.com/course/unit-testing-typescript-nodejs)
