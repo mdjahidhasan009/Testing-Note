@@ -78,5 +78,14 @@ Principal, not rules, that we my follow when writting test
 * GREEN passing test
 * BLUE change or add logic
 
+
+# Low Mock vs High Mock
+* Low Mock
+  * Mocking only the dependencies of the unit under test
+  * Mocking only the direct dependencies of the unit under test
+* High Mock
+  * Mocking all the dependencies of the unit under test
+  * Mocking all the dependencies of the dependencies of the unit under test
+
 ### Resources
 * [Unit Testing for Typescript & NodeJs Developers with Jest](https://www.udemy.com/course/unit-testing-typescript-nodejs)
